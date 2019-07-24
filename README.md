@@ -1,2 +1,5 @@
 # JavaScript
-javascript 练习
+
+## JavaScript Basic
+
+### JavaScript Typeof
